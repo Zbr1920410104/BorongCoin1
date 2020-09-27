@@ -1,5 +1,5 @@
 {
-  "name": "luotuocoin",
+  "name": "borongcoin",
   "version": "1.0.3",
   "description": "A blockchain for educational purpose",
   "main": "src/blockChain.js",
@@ -10,7 +10,7 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "elliptic": "^6.5.2",
-    "luotuocoin": "^1.0.2"
+    "borongcoin": "^1.0.2"
   },
   "devDependencies": {
     "jest": "^25.1.0"
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ycraaron/LuotuoCoin.git"
+    "url": "git+https://github.com/ycraaron/BorongCoin.git"
   },
   "author": "Aaron Yang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ycraaron/LuotuoCoin/issues"
+    "url": "https://github.com/ycraaron/BorongCoin/issues"
   },
-  "homepage": "https://github.com/ycraaron/LuotuoCoin#readme"
+  "homepage": "https://github.com/ycraaron/BorongCoin#readme"
 }
